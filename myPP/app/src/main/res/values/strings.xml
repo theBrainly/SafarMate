@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SafarMate</string>
+    
+    <!-- Common strings -->
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="continue_text">Continue</string>
+    <string name="back">Back</string>
+    
+    <!-- Auth screens -->
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="already_have_account">Already have an account?</string>
+    
+    <!-- Home screen -->
+    <string name="find_bus">Find Your Bus</string>
+    <string name="boarding_from">Boarding From</string>
+    <string name="destination">Where are you going?</string>
+    <string name="find_buses">Find Buses</string>
+    <string name="available_options">Available Options</string>
+    
+    <!-- Chat bot screen -->
+    <string name="chat_with_assistant">Chat with Assistant</string>
+    <string name="type_message">Type your message...</string>
+    <string name="send_message">Send</string>
+</resources>
